@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: My new picture
+title: ew picture
 ---
 
 ## This is my team at Microsoft

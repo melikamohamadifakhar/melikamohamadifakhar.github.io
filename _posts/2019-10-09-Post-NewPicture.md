@@ -3,21 +3,10 @@ layout: posts
 #title: new picture
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
-
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+## In the memory of the victims of flight PS752
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/photo.jpg)
 
 ---
-**Test**: This is atest

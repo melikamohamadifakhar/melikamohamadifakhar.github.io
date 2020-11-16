@@ -10,6 +10,6 @@ layout: posts
 
 
 
-![alt text](../assets/images/post.jpeg)
+![alt text](../assets/images/post.jpg)
 
 ---

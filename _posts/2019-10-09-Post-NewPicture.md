@@ -3,7 +3,7 @@ layout: posts
 #title: new picture
 ---
 
-## In the memory of the victims of flight PS752
+## In memory of the victims of flight PS752
 
 
 

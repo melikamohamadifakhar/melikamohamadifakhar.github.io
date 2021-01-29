@@ -26,6 +26,10 @@ gallery:
   - url: /assets/images/5.jpg
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
+    title: "Image 5 title caption"
+  - url: /assets/images/425615690_127054.jpg
+    image_path: /assets/images/425615690_127054.jpg
+    alt: "placeholder image 5"
     title: "Image 5 title caption"    
 ---
 

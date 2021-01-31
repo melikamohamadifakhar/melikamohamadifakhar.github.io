@@ -14,6 +14,5 @@ permalink: /2021-2-10-Post_exampost/
 
 [link](http://99522086.pythonanywhere.com/firstpage)<br>
 
-* [Playing Harmonica](https://en.wikipedia.org/wiki/Harmonica)<br>
 
 [![hackathon](/assets/images/exam.jpg "exam")](http://99522086.pythonanywhere.com/firstpage)

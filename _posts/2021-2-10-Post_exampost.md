@@ -12,4 +12,6 @@ permalink: /2021-2-10-Post_exampost/
 
 
 
-* [link](http://99522086.pythonanywhere.com/firstpage)
+[link](http://99522086.pythonanywhere.com/firstpage)
+
+[![An old rock in the desert](/assets/images/exam.jpg "class")](http://99522086.pythonanywhere.com/firstpage)

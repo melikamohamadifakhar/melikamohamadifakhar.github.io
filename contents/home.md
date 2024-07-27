@@ -7,12 +7,22 @@ Take a look around my site to see what I’ve been up to, from projects to resea
 
 #### Research Interests
 **Natural Language Processing**
+
 Question Answering Systems, Language Modeling, Dialog Systems and Chatbots, Information Retrieval and Extraction
+
+
 **Deep Learning**
+
 Neural Network Architectures, RNNs, GANs, Transfer Learning
+
+
 **Machine Learning**
+
 Model Interpretability and Explainability, Hyperparameter Optimization
+
+
 **Computer Vision**
+
 Object Detection and Recognition, Image Segmentation, Medical Image Analysis
 
 

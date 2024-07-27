@@ -1,4 +1,3 @@
-<!-- 
 **Natural Language Processing**
 <br>
 Question Answering Systems, Language Modeling, Dialog Systems and Chatbots, Information Retrieval and Extraction
@@ -16,4 +15,4 @@ Model Interpretability and Explainability, Hyperparameter Optimization
 
 **Computer Vision**
 <br>
-Object Detection and Recognition, Image Segmentation, Medical Image Analysis -->
+Object Detection and Recognition, Image Segmentation, Medical Image Analysis

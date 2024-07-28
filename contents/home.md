@@ -4,4 +4,4 @@ I’m super passionate about diving into new challenges and exploring the latest
 
 Take a look around my site to see what I’ve been up to, from projects to research and more. Thanks for stopping by, and let’s connect if you’re interested!
 
-You can download my CV from [here](./cv.pdf).
+You can download my CV from [here](../static/assets/cv.pdf).

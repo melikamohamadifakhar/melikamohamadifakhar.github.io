@@ -10942,7 +10942,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .pbtn {
-  background-color: #007bff;
+  background-color: #3948d2;
   color: #ffffff;
   padding: 10px 20px;
   text-decoration: none;
@@ -10951,7 +10951,38 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .pbtn:hover {
-  background-color: #0056b3;
+  background-color: #636464
+}
+
+#experiences {
+  background-color: #f8f9fa; /* Light grey background */
+}
+
+.ecard {
+  border: none; /* Remove card border */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for better appearance */
+  transition: transform 0.2s; /* Add a hover effect */
+}
+
+.ecard:hover {
+  transform: scale(1.05); /* Scale up the card on hover */
+}
+
+.ecard-body {
+  padding: 1rem;
+}
+
+.ecard-title {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.ecard-text {
+  font-size: 1rem;
+}
+
+.elist-unstyled li {
+  margin-bottom: 1rem;
 }
 
 

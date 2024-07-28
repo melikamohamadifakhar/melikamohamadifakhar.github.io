@@ -10917,6 +10917,9 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .project-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   background-color: #ffffff;
   color: #000000;
   border-radius: 10px;

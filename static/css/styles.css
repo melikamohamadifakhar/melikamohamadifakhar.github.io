@@ -10909,6 +10909,46 @@ footer a:hover, footer a:active, footer a:focus {
   text-decoration: underline;
 }
 
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.project-card {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+}
+
+.project-card h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.project-card p {
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+.pbtn {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.pbtn:hover {
+  background-color: #0056b3;
+}
 
 
 
